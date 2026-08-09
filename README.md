@@ -22,7 +22,7 @@ This project leverages Google search to find Instagram profiles that contain spe
 
 ```bash
 # Clone the repository
-git clone https://github.com/bryanseah234/searchIG2020.git
+git clone https://github.com/theprawnorganisation/searchIG2020.git
 
 # Navigate to project directory
 cd searchIG2020
@@ -52,8 +52,4 @@ python "scrape instagram code.py"
 
 ## License
 
-MIT License
-
----
-
-**Author:** <a href="https://github.com/bryanseah234">bryanseah234</a>
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
