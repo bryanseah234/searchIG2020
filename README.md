@@ -1,5 +1,10 @@
 # Instagram Profile Search Tool
 
+Live demo: https://hongyime.github.io/searchIG2020/
+
+![Project screenshot](./screenshot.png)
+
+
 A Python script to search and scrape Instagram user profiles based on keywords found in their bio.
 
 ## Description
